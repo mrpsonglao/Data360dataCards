@@ -1,0 +1,26 @@
+,Page,Page Views,Unique Page Views,Avg. Time on Page,Entrances,Bounce Rate,% Exit,Page Value,Indicator ID
+0,/indicators/gci,"3,946","3,606",00:03:43,"3,255",67.86%,64.22%,US$0.00,631
+1,/indicators/lbr.prod,"2,911","2,637",00:02:16,"2,149",74.73%,65.82%,US$0.00,3266
+2,/indicators/jud.ndep,"1,577","1,399",00:03:59,"1,332",76.20%,73.18%,US$0.00,669
+3,/indicators/hh.mkt,"1,176","1,071",00:04:56,989,73.31%,69.81%,US$0.00,2370
+4,/indicators/tot.direct.gdp,959,889,00:04:29,786,74.94%,68.30%,US$0.00,24650
+5,/indicators/idx.econ.free.scr,731,689,00:04:02,638,73.35%,70.04%,US$0.00,747
+6,/indicators/govt.exp,676,614,00:04:45,568,77.46%,73.96%,US$0.00,354
+7,/indicators/govt.tat.spend,673,593,00:05:04,536,78.92%,73.85%,US$0.00,24661
+8,/indicators/effex.rate,658,611,00:03:16,538,74.54%,69.76%,US$0.00,2576
+9,/indicators/mva.ind.int,650,557,00:03:28,511,67.51%,63.08%,US$0.00,3793
+10,/indicators/aps.ea.total,615,549,00:04:10,499,75.55%,69.92%,US$0.00,3116
+11,/indicators/BX.KLT.DINV.WD.GD.ZS,569,537,00:04:22,431,81.67%,71.18%,US$0.00,1541
+12,/indicators/ST.INT.ARVL,540,511,00:04:13,433,83.83%,74.81%,US$0.00,1841
+13,/indicators/govt.regu,527,477,00:04:34,426,70.19%,64.71%,US$0.00,689
+14,/indicators/ict.inv,500,462,00:03:38,421,80.52%,74.60%,US$0.00,28
+15,/indicators/TX.VAL.TECH.MF.ZS,489,460,00:03:36,366,74.32%,66.67%,US$0.00,2010
+16,/indicators/lbr.mkt.efcy,440,404,00:05:09,350,76.57%,69.55%,US$0.00,737
+17,/indicators/trade.stri.stri,393,337,00:02:08,194,74.23%,48.09%,US$0.00,3129
+18,/indicators/lbr.prod.grow,384,355,00:02:53,151,68.21%,63.02%,US$0.00,277
+19,/indicators/NE.EXP.GNFS.CD,371,346,00:02:01,22,59.09%,38.01%,US$0.00,915
+20,/indicators/TM.TAX.MRCH.WM.AR.ZS,367,333,00:03:01,262,80.15%,69.75%,US$0.00,1909
+21,/indicators/IS.SHP.GOOD.TU,365,345,00:03:31,283,86.57%,75.89%,US$0.00,1739
+22,/indicators/inv.CM.MKT.LCAP.GD.ZS,352,335,00:04:21,316,86.08%,82.67%,US$0.00,1550
+23,/indicators/govr.struct.bal,334,306,00:04:12,273,74.36%,69.76%,US$0.00,356
+24,"/indicators/jud.ndep?country=BRA&indicator=669&viz=line_chart&years=2007,2016",334,310,00:04:07,238,85.71%,82.34%,US$0.00,669
